@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48665\\Downloads\\Tutorial8\\Tutorial8\\Tutorial8.csproj": {}
+    "C:\\Users\\48665\\Desktop\\Tutorial8\\Tutorial8\\Tutorial8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48665\\Downloads\\Tutorial8\\Tutorial8\\Tutorial8.csproj": {
+    "C:\\Users\\48665\\Desktop\\Tutorial8\\Tutorial8\\Tutorial8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48665\\Downloads\\Tutorial8\\Tutorial8\\Tutorial8.csproj",
+        "projectUniqueName": "C:\\Users\\48665\\Desktop\\Tutorial8\\Tutorial8\\Tutorial8.csproj",
         "projectName": "Tutorial8",
-        "projectPath": "C:\\Users\\48665\\Downloads\\Tutorial8\\Tutorial8\\Tutorial8.csproj",
+        "projectPath": "C:\\Users\\48665\\Desktop\\Tutorial8\\Tutorial8\\Tutorial8.csproj",
         "packagesPath": "C:\\Users\\48665\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48665\\Downloads\\Tutorial8\\Tutorial8\\obj\\",
+        "outputPath": "C:\\Users\\48665\\Desktop\\Tutorial8\\Tutorial8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\48665\\AppData\\Roaming\\NuGet\\NuGet.Config"
